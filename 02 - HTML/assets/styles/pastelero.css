@@ -1,0 +1,27 @@
+.title-pastelero {
+    font-size: 3em;
+    text-align: center;
+    padding: 1em 0;
+}
+
+.title-table {
+    font-size: 2em;
+}
+
+.container {
+    padding: 0 10em;
+    padding-bottom: 5em;
+}
+
+.table {
+    width: 100%;
+    background-color: #fff;
+    margin-bottom: 4em;
+}
+
+.thhead {
+    background-color: #f5f5f5;
+}
+td {
+    text-align: center;
+}
